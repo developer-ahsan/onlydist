@@ -387,6 +387,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 ng2-charts
 ISC
 
+ngx-dropzone
+MIT
+
 ngx-google-places-autocomplete
 MIT
 
